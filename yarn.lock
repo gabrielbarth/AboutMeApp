@@ -2243,6 +2243,18 @@
   dependencies:
     firebase "12.4.0"
 
+"@react-native-firebase/auth@^23.4.1":
+  version "23.4.1"
+  resolved "https://registry.yarnpkg.com/@react-native-firebase/auth/-/auth-23.4.1.tgz#fda4e6e2064589009e2971689e5825cc39e1d7e4"
+  integrity sha512-V+XNfCtlhXLOuhBAcz4STOADzs+W3U5tL3vyaHqnKIY9z8/l8wO0snx8jMTPa497dNFL9IzMVFU/POHfU/2kBA==
+  dependencies:
+    plist "^3.1.0"
+
+"@react-native-firebase/storage@^23.4.1":
+  version "23.4.1"
+  resolved "https://registry.yarnpkg.com/@react-native-firebase/storage/-/storage-23.4.1.tgz#a78647b4545ae1472fe0b9a09c2409db1f93ff62"
+  integrity sha512-LCRySKFwzBVppC18FYxm+Rt9UfYbfoqwOhQHk2uazz5eZuJ59U7T2ue1tV9ZqrX7bk6cb/io65ePIkhlSCT2sg==
+
 "@react-native/assets-registry@0.81.5":
   version "0.81.5"
   resolved "https://registry.yarnpkg.com/@react-native/assets-registry/-/assets-registry-0.81.5.tgz#d22c924fa6f6d4a463c5af34ce91f38756c0fa7d"
@@ -6689,7 +6701,7 @@ pirates@^4.0.1, pirates@^4.0.4:
   resolved "https://registry.yarnpkg.com/pirates/-/pirates-4.0.7.tgz#643b4a18c4257c8a65104b73f3049ce9a0a15e22"
   integrity sha512-TfySrs/5nm8fQJDcBDuUng3VOUKsd7S+zqvbOTiGXHfxX4wK31ard+hoNuvkicM/2YFzlpDgABOevKSsB4G/FA==
 
-plist@^3.0.5:
+plist@^3.0.5, plist@^3.1.0:
   version "3.1.0"
   resolved "https://registry.yarnpkg.com/plist/-/plist-3.1.0.tgz#797a516a93e62f5bde55e0b9cc9c967f860893c9"
   integrity sha512-uysumyrvkUX0rX/dEVqt8gC3sTBzd4zoWfLeS29nb53imdaXVvLINYXTI2GNqzaMuvacNx4uJQ8+b3zXR0pkgQ==
