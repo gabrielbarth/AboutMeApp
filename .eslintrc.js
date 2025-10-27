@@ -3,4 +3,9 @@ module.exports = {
   extends: ['expo', 'prettier'],
   plugins: ['prettier'],
   ignorePatterns: ['/dist/*'],
+  rules: {
+    'prettier/prettier': 'error',
+    'import/extensions': 'off',
+    'import/no-unresolved': 'off',
+  },
 };

@@ -12,7 +12,12 @@
           "package_name": "com.gabrielbarth.AboutMeApp"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "1088714494565-c08mb3nhf9d8ip4q77rsnnhglg3stl3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyC3usE3zpWcz0a3T8UMmuIPKVCkesCVz3w"
@@ -20,7 +25,19 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088714494565-c08mb3nhf9d8ip4q77rsnnhglg3stl3d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1088714494565-0ku4vvp7ol251s5le3a0niltu8atrho8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gabrielbarth.AboutMeApp"
+              }
+            }
+          ]
         }
       }
     }
